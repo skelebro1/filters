@@ -9,3 +9,4 @@ www.youtube.com###secondary
 
 ! Twitch
 www.twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
+www.twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--expanded
