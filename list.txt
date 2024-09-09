@@ -4,6 +4,7 @@ www.reddit.com###nsfw-qr-dialog
 www.reddit.com##xpromo-nsfw-blocking-modal-desktop
 www.reddit.com##faceplate-modal
 www.reddit.com##+js(remove-class, grid)
+
 ! YouTube
 www.youtube.com###secondary
 
