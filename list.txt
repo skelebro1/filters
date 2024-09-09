@@ -1,9 +1,8 @@
+! Reddit
 www.reddit.com##div[style="position: fixed; inset: 0px; backdrop-filter: blur(4px);"]
-
 www.reddit.com###nsfw-qr-dialog
-
 www.reddit.com##xpromo-nsfw-blocking-modal-desktop
-
 www.reddit.com##faceplate-modal
 
+! YouTube
 www.youtube.com###secondary
