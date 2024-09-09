@@ -1,2 +1,5 @@
-### ublock-origin / ad-block filter list
-*sites include: reddit, youtube*
+# uBlock Origin / AdBlock filter list
+
+## Sites
+- [Reddit](https://www.reddit.com/)
+- [YouTube](https://www.youtube.com/)
