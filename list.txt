@@ -11,7 +11,6 @@ www.reddit.com##pdp-right-rail
 www.youtube.com###secondary
 www.youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-endscreen-paginate.ytp-show-tiles
 www.youtube.com###items
-m.youtube.com##lazy-list
 
 ! Twitch
 www.twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
