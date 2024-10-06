@@ -10,6 +10,7 @@ www.reddit.com##pdp-right-rail
 ! YouTube
 www.youtube.com###secondary
 www.youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-endscreen-paginate.ytp-show-tiles
+www.youtube.com##.ytp-endscreen-content
 
 ! Twitch
 www.twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
