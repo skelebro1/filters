@@ -12,6 +12,9 @@ www.youtube.com###secondary
 www.youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-endscreen-paginate.ytp-show-tiles
 www.youtube.com##.ytp-endscreen-content
 www.youtube.com##.ytp-ce-element
+www.youtube.com###related
+www.youtube.com###panels
+www.youtube.com###chat-container
 
 ! Twitch
 www.twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
