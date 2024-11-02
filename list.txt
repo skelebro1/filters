@@ -6,6 +6,7 @@ www.reddit.com##faceplate-modal
 www.reddit.com##+js(remove-class, grid)
 www.reddit.com###left-sidebar
 www.reddit.com##pdp-right-rail
+www.reddit.com##auth-landing-experience-xpromo-cbau-wrapper
 
 ! YouTube
 www.youtube.com###secondary
