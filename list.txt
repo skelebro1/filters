@@ -7,6 +7,7 @@ reddit.com##+js(remove-class, grid)
 reddit.com###left-sidebar
 reddit.com##pdp-right-rail
 reddit.com##auth-landing-experience-xpromo-cbau-wrapper
+reddit.com##xpromo-viral-community
 
 ! YouTube
 youtube.com###secondary
