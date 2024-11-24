@@ -19,6 +19,8 @@ youtube.com###panels
 youtube.com###chat-container
 youtube.com##.quick-actions-wrapper
 youtube.com##.fullscreen-recommendations-wrapper
+youtube.com##.ytd-comments.style-scope
+youtube.com###bottom-row
 
 ! Twitch
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
