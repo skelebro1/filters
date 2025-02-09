@@ -1,4 +1,8 @@
+! Discord
+||discord.com^
+
 ! Reddit
+||reddit.com^
 reddit.com##div[style="position: fixed; inset: 0px; backdrop-filter: blur(4px);"]
 reddit.com###nsfw-qr-dialog
 reddit.com##xpromo-nsfw-blocking-modal-desktop
