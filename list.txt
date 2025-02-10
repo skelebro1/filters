@@ -20,3 +20,4 @@ youtube.com###dismissible
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--expanded
 twitch.tv##.channel-info-content > div
+www.twitch.tv##.root-scrollable__wrapper.jNrYjU.Layout-sc-1xcs6mc-0 > .iTiPMO.Layout-sc-1xcs6mc-0
