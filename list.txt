@@ -15,6 +15,7 @@ youtube.com###chat-container
 youtube.com##.quick-actions-wrapper
 youtube.com##.fullscreen-recommendations-wrapper
 youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
+youtube.com##.ytd-background-promo-renderer
 
 ! Twitch
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
