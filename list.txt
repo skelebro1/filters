@@ -23,4 +23,4 @@ youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--expanded
 twitch.tv##.channel-info-content > div
-www.twitch.tv##.root-scrollable__wrapper.jNrYjU.Layout-sc-1xcs6mc-0 > .iTiPMO.Layout-sc-1xcs6mc-0
+twitch.tv##.root-scrollable__wrapper.jNrYjU.Layout-sc-1xcs6mc-0 > .iTiPMO.Layout-sc-1xcs6mc-0
