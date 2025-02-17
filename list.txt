@@ -16,9 +16,15 @@ youtube.com##.quick-actions-wrapper
 youtube.com##.fullscreen-recommendations-wrapper
 youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
 youtube.com##.ytd-background-promo-renderer
+www.youtube.com###comments
+www.youtube.com##ytd-comments.ytd-section-list-renderer.style-scope
 
 ! Twitch
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--expanded
 twitch.tv##.channel-info-content > div
 twitch.tv##.root-scrollable__wrapper.jNrYjU.Layout-sc-1xcs6mc-0 > .iTiPMO.Layout-sc-1xcs6mc-0
+
+! HoYoLAB
+www.hoyolab.com##.root-page-container__right
+www.hoyolab.com##.mhy-container.mhy-article-page-reply
