@@ -1,10 +1,11 @@
 # uBlock Origin / AdBlock filter list
 
 ### Sites include:
-- [Discord](https://discord.com/)
-- [Reddit](https://reddit.com/)
-- [YouTube](https://youtube.com/)
-- [Twitch](https://twitch.tv/)
-- [Imgur](https://imgur.com/)
+- [Discord](https://discord.com)
+- [Reddit](https://reddit.com)
+- [YouTube](https://youtube.com)
+- [Twitch](https://twitch.tv)
+- [HoYoLAB](https://hoyolab.com)
+- [Fandom](https://fandom.com)
 
 ### NOTE: Discord and Reddit are completely blocked!
