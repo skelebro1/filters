@@ -28,6 +28,7 @@ twitch.tv##.root-scrollable__wrapper.jNrYjU.Layout-sc-1xcs6mc-0 > .iTiPMO.Layout
 ! HoYoLAB
 hoyolab.com##.root-page-container__right
 hoyolab.com##.mhy-container.mhy-article-page-reply
+hoyolab.com##.hyl-reply-box-stats__input
 
 ! Fandom
 fandom.com###articleComments
