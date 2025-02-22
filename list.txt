@@ -36,3 +36,5 @@ hoyolab.com##.mhy-article-card__highlight
 ! Fandom
 fandom.com###articleComments
 fandom.com##.page__right-rail
+fandom.com##.bottom-ads-container
+fandom.com##.top-ads-container
