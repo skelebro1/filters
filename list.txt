@@ -31,8 +31,6 @@ twitch.tv##.gGbkYh.Layout-sc-1xcs6mc-0
 twitch.tv##.player-overlay-background--darkness-3.player-overlay-background.lhyVsR.Layout-sc-1xcs6mc-0
 twitch.tv##.tw-transition.follow-panel-overlay.dtAmne.ScTransitionBase-sc-hx4quq-0.egOlwh.Layout-sc-1xcs6mc-0
 
-
-
 ! HoYoLAB
 hoyolab.com##.root-page-container__right
 hoyolab.com##.mhy-container.mhy-article-page-reply
@@ -44,3 +42,5 @@ fandom.com###articleComments
 fandom.com##.page__right-rail
 fandom.com##.bottom-ads-container
 fandom.com##.top-ads-container
+fandom.com##.notifications-box
+fandom.com##.article-comments-collapsible-menu.article-footer-item.collapsible-menu
