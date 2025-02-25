@@ -18,6 +18,13 @@ youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd
 youtube.com##.ytd-background-promo-renderer
 youtube.com###comments
 youtube.com##ytd-comments.ytd-section-list-renderer.style-scope
+youtube.com###actions
+youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
+youtube.com###sponsor-button
+youtube.com##.ytd-watch-flexy.style-scope.watch-active-metadata > ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope
+youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(3)
+youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
+youtube.com##.yt-flexible-actions-view-model-wiz--inline.yt-flexible-actions-view-model-wiz.page-header-view-model-wiz__page-header-flexible-actions--page-header-flexible-actions-margin-bottom.page-header-view-model-wiz__page-header-flexible-actions--page-header-flexible-actions-margin-top.page-header-view-model-wiz__page-header-flexible-actions
 
 ! Twitch
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
@@ -29,12 +36,19 @@ twitch.tv##.clip-postplay-recommendations.bQSfEu.Layout-sc-1xcs6mc-0
 twitch.tv##.gGbkYh.Layout-sc-1xcs6mc-0
 twitch.tv##.player-overlay-background--darkness-3.player-overlay-background.lhyVsR.Layout-sc-1xcs6mc-0
 twitch.tv##.tw-transition.follow-panel-overlay.dtAmne.ScTransitionBase-sc-hx4quq-0.egOlwh.Layout-sc-1xcs6mc-0
+twitch.tv##.fGJyEH.Layout-sc-1xcs6mc-0
+twitch.tv##.hJHxso.Layout-sc-1xcs6mc-0
+twitch.tv##.bZpfnT.Layout-sc-1xcs6mc-0
+twitch.tv##.dLeJdh.CoreText-sc-1txzju1-0
+twitch.tv##div.iHafKo.Layout-sc-1xcs6mc-0:nth-of-type(2)
 
 ! HoYoLAB
 hoyolab.com##.root-page-container__right
 hoyolab.com##.mhy-container.mhy-article-page-reply
 hoyolab.com##.hyl-reply-box-stats__input
 hoyolab.com##.mhy-article-card__highlight
+hoyolab.com##.mhy-article-page__footer
+hoyolab.com##.hyl-reply-box-stats-container
 
 ! Fandom
 fandom.com###articleComments
@@ -43,3 +57,9 @@ fandom.com##.bottom-ads-container
 fandom.com##.top-ads-container
 fandom.com##.notifications-box
 fandom.com##.article-comments-collapsible-menu.article-footer-item.collapsible-menu
+fandom.com###mw-data-after-content
+fandom.com##.mbox
+fandom.com##.notifications-placeholder
+fandom.com##.page-header__actions
+fandom.com##.is-visible.fandom-sticky-header.community-navigation
+fandom.com##.global-explore-navigation__nav > .global-explore-navigation__recently-visited
