@@ -18,7 +18,6 @@ youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd
 youtube.com##.ytd-background-promo-renderer
 youtube.com###comments
 youtube.com##ytd-comments.ytd-section-list-renderer.style-scope
-youtube.com###dismissible > .ytd-shelf-renderer.style-scope
 
 ! Twitch
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
