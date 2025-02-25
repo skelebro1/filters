@@ -33,7 +33,6 @@ twitch.tv##.channel-info-content > div
 twitch.tv###following-page-main-content > .Layout-sc-1xcs6mc-0 > div:nth-of-type(2)
 twitch.tv##.root-scrollable__wrapper.jNrYjU.Layout-sc-1xcs6mc-0 > .iTiPMO.Layout-sc-1xcs6mc-0
 twitch.tv##.clip-postplay-recommendations.bQSfEu.Layout-sc-1xcs6mc-0
-twitch.tv##.gGbkYh.Layout-sc-1xcs6mc-0
 twitch.tv##.player-overlay-background--darkness-3.player-overlay-background.lhyVsR.Layout-sc-1xcs6mc-0
 twitch.tv##.tw-transition.follow-panel-overlay.dtAmne.ScTransitionBase-sc-hx4quq-0.egOlwh.Layout-sc-1xcs6mc-0
 twitch.tv##.fGJyEH.Layout-sc-1xcs6mc-0
