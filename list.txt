@@ -49,6 +49,10 @@ hoyolab.com##.hyl-reply-box-stats__input
 hoyolab.com##.mhy-article-card__highlight
 hoyolab.com##.mhy-article-page__footer
 hoyolab.com##.hyl-reply-box-stats-container
+hoyolab.com##.root-page-container__side
+hoyolab.com##.menu-outline
+hoyolab.com##li.nav-bar-pc-nav-item:nth-of-type(1)
+
 
 ! Fandom
 fandom.com###articleComments
