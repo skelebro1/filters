@@ -7,5 +7,6 @@
 - [Twitch](https://twitch.tv)
 - [HoYoLAB](https://hoyolab.com)
 - [Fandom](https://fandom.com)
+- [Imgur](https://imgur.com)
 
-### NOTE: Discord and Reddit are completely blocked!
+### NOTE: Discord, Reddit and Twitch are completely blocked!
