@@ -27,6 +27,7 @@ youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth
 youtube.com##.yt-flexible-actions-view-model-wiz--inline.yt-flexible-actions-view-model-wiz.page-header-view-model-wiz__page-header-flexible-actions--page-header-flexible-actions-margin-bottom.page-header-view-model-wiz__page-header-flexible-actions--page-header-flexible-actions-margin-top.page-header-view-model-wiz__page-header-flexible-actions
 
 ! Twitch
+||twitch.tv^
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
 twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--expanded
 twitch.tv##.channel-info-content > div
