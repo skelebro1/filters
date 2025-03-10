@@ -36,6 +36,7 @@ youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth
 youtube.com##.yt-flexible-actions-view-model-wiz--inline.yt-flexible-actions-view-model-wiz.page-header-view-model-wiz__page-header-flexible-actions--page-header-flexible-actions-margin-bottom.page-header-view-model-wiz__page-header-flexible-actions--page-header-flexible-actions-margin-top.page-header-view-model-wiz__page-header-flexible-actions
 youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
 youtube.com###action-buttons
+youtube.com###teaser-carousel
 
 ! Twitch
 ||twitch.tv^
