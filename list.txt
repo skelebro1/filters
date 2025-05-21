@@ -14,7 +14,6 @@ reddit.com##auth-landing-experience-xpromo-cbau-wrapper
 reddit.com##xpromo-viral-community
 
 ! YouTube
-youtube.com###secondary
 youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-endscreen-paginate.ytp-show-tiles
 youtube.com##.ytp-endscreen-content
 youtube.com##.ytp-ce-element
