@@ -14,7 +14,6 @@ reddit.com##auth-landing-experience-xpromo-cbau-wrapper
 reddit.com##xpromo-viral-community
 
 ! YouTube
-youtube.com###secondary
 youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-endscreen-paginate.ytp-show-tiles
 youtube.com##.ytp-endscreen-content
 youtube.com##.ytp-ce-element
@@ -35,7 +34,6 @@ youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:n
 youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
 youtube.com##.yt-flexible-actions-view-model-wiz--inline.yt-flexible-actions-view-model-wiz.page-header-view-model-wiz__page-header-flexible-actions--page-header-flexible-actions-margin-bottom.page-header-view-model-wiz__page-header-flexible-actions--page-header-flexible-actions-margin-top.page-header-view-model-wiz__page-header-flexible-actions
 youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
-youtube.com###action-buttons
 youtube.com###teaser-carousel
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 youtube.com##lazy-list
