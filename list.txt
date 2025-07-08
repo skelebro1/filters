@@ -37,8 +37,8 @@ youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-de
 youtube.com###teaser-carousel
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 youtube.com##lazy-list
-youtube.com###secondary
 youtube.com###action-buttons
+! youtube.com###secondary ! Breaks YouTube Music Playlists UI !
 
 ! Twitch
 ||twitch.tv^
