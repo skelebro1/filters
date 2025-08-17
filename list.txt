@@ -1,18 +1,3 @@
-! Discord
-||discord.com^
-
-! Reddit
-||reddit.com^
-reddit.com##div[style="position: fixed; inset: 0px; backdrop-filter: blur(4px);"]
-reddit.com###nsfw-qr-dialog
-reddit.com##xpromo-nsfw-blocking-modal-desktop
-reddit.com##faceplate-modal
-reddit.com##+js(remove-class, grid)
-reddit.com###left-sidebar
-reddit.com##pdp-right-rail
-reddit.com##auth-landing-experience-xpromo-cbau-wrapper
-reddit.com##xpromo-viral-community
-
 ! YouTube
 youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-endscreen-paginate.ytp-show-tiles
 youtube.com##.ytp-endscreen-content
@@ -30,31 +15,15 @@ youtube.com###actions
 youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
 youtube.com###sponsor-button
 youtube.com##.ytd-watch-flexy.style-scope.watch-active-metadata > ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope
-youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(3)
-youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
 youtube.com##.yt-flexible-actions-view-model-wiz--inline.yt-flexible-actions-view-model-wiz.page-header-view-model-wiz__page-header-flexible-actions--page-header-flexible-actions-margin-bottom.page-header-view-model-wiz__page-header-flexible-actions--page-header-flexible-actions-margin-top.page-header-view-model-wiz__page-header-flexible-actions
 youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
 youtube.com###teaser-carousel
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 youtube.com##lazy-list
-youtube.com###action-buttons
 www.youtube.com###secondary
-
-! Twitch
-||twitch.tv^
-twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
-twitch.tv##div.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--expanded
-twitch.tv##.channel-info-content > div
-twitch.tv###following-page-main-content > .Layout-sc-1xcs6mc-0 > div:nth-of-type(2)
-twitch.tv##.root-scrollable__wrapper.jNrYjU.Layout-sc-1xcs6mc-0 > .iTiPMO.Layout-sc-1xcs6mc-0
-twitch.tv##.clip-postplay-recommendations.bQSfEu.Layout-sc-1xcs6mc-0
-twitch.tv##.player-overlay-background--darkness-3.player-overlay-background.lhyVsR.Layout-sc-1xcs6mc-0
-twitch.tv##.tw-transition.follow-panel-overlay.dtAmne.ScTransitionBase-sc-hx4quq-0.egOlwh.Layout-sc-1xcs6mc-0
-twitch.tv##.fGJyEH.Layout-sc-1xcs6mc-0
-twitch.tv##.hJHxso.Layout-sc-1xcs6mc-0
-twitch.tv##.bZpfnT.Layout-sc-1xcs6mc-0
-twitch.tv##.dLeJdh.CoreText-sc-1txzju1-0
-twitch.tv##div.iHafKo.Layout-sc-1xcs6mc-0:nth-of-type(2)
+youtube.com###center
+youtube.com##ytd-video-description-infocards-section-renderer.style-scope.ytd-structured-description-content-renderer
+youtube.com##.search-box.style-scope.ytmusic-search-box
 
 ! HoYoLAB
 hoyolab.com##.root-page-container__right
@@ -81,7 +50,3 @@ fandom.com##.notifications-placeholder
 fandom.com##.page-header__actions
 fandom.com##.is-visible.fandom-sticky-header.community-navigation
 fandom.com##.global-explore-navigation__nav > .global-explore-navigation__recently-visited
-
-! Imgur
-imgur.com##.BottomRecirc
-imgur.com##.Sticky.Top
