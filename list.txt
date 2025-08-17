@@ -24,6 +24,10 @@ www.youtube.com###secondary
 youtube.com###center
 youtube.com##ytd-video-description-infocards-section-renderer.style-scope.ytd-structured-description-content-renderer
 youtube.com##.search-box.style-scope.ytmusic-search-box
+youtube.com###automix-contents
+youtube.com###chips
+youtube.com##tp-yt-paper-tab.tab-header.style-scope.ytmusic-player-page:nth-of-type(3)
+youtube.com###mini-guide-renderer > div.style-scope.ytmusic-guide-renderer > ytmusic-guide-section-renderer.style-scope.ytmusic-guide-renderer:nth-of-type(1) > .scroller.scroller-on-hover.style-scope.ytmusic-guide-section-renderer > ytmusic-guide-entry-renderer.style-scope.ytmusic-guide-section-renderer:nth-of-type(2) > tp-yt-paper-item.style-scope.ytmusic-guide-entry-renderer
 
 ! HoYoLAB
 hoyolab.com##.root-page-container__right
