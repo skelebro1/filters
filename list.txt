@@ -7,7 +7,7 @@ youtube.com###panels
 youtube.com###chat-container
 youtube.com##.quick-actions-wrapper
 youtube.com##.fullscreen-recommendations-wrapper
-youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
+
 youtube.com##.ytd-background-promo-renderer
 youtube.com###comments
 youtube.com##ytd-comments.ytd-section-list-renderer.style-scope
@@ -21,9 +21,7 @@ youtube.com###teaser-carousel
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 youtube.com##lazy-list
 www.youtube.com###secondary
-youtube.com###center
 youtube.com##ytd-video-description-infocards-section-renderer.style-scope.ytd-structured-description-content-renderer
-youtube.com##.search-box.style-scope.ytmusic-search-box
 youtube.com###automix-contents
 youtube.com###chips
 youtube.com##tp-yt-paper-tab.tab-header.style-scope.ytmusic-player-page:nth-of-type(3)
