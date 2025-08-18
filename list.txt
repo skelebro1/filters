@@ -7,7 +7,7 @@ youtube.com###panels
 youtube.com###chat-container
 youtube.com##.quick-actions-wrapper
 youtube.com##.fullscreen-recommendations-wrapper
-
+youtube.com##.ytp-related-on-error-overlay
 youtube.com##.ytd-background-promo-renderer
 youtube.com###comments
 youtube.com##ytd-comments.ytd-section-list-renderer.style-scope
