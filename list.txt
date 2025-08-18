@@ -27,18 +27,6 @@ youtube.com###chips
 youtube.com##tp-yt-paper-tab.tab-header.style-scope.ytmusic-player-page:nth-of-type(3)
 youtube.com###mini-guide-renderer > div.style-scope.ytmusic-guide-renderer > ytmusic-guide-section-renderer.style-scope.ytmusic-guide-renderer:nth-of-type(1) > .scroller.scroller-on-hover.style-scope.ytmusic-guide-section-renderer > ytmusic-guide-entry-renderer.style-scope.ytmusic-guide-section-renderer:nth-of-type(2) > tp-yt-paper-item.style-scope.ytmusic-guide-entry-renderer
 
-! HoYoLAB
-hoyolab.com##.root-page-container__right
-hoyolab.com##.mhy-container.mhy-article-page-reply
-hoyolab.com##.hyl-reply-box-stats__input
-hoyolab.com##.mhy-article-card__highlight
-hoyolab.com##.mhy-article-page__footer
-hoyolab.com##.hyl-reply-box-stats-container
-hoyolab.com##.root-page-container__side
-hoyolab.com##.menu-outline
-hoyolab.com##li.nav-bar-pc-nav-item:nth-of-type(1)
-
-
 ! Fandom
 fandom.com###articleComments
 fandom.com##.page__right-rail
