@@ -28,7 +28,6 @@ youtube.com##yt-flexible-actions-view-model
 youtube.com##ytd-comment-action-buttons-renderer
 youtube.com##.style-scope ytd-masthead
 youtube.com##ytd-mini-guide-renderer
-youtube.com##div[id="dismissible"]
 
 ! Fandom
 fandom.com###articleComments
