@@ -1,4 +1,5 @@
 ! YouTube
+www.youtube.com###chips
 www.youtube.com###actions
 www.youtube.com###secondary
 www.youtube.com##+js(user-yt-redirect)
@@ -25,7 +26,6 @@ youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-s
 youtube.com##lazy-list
 youtube.com##ytd-video-description-infocards-section-renderer.style-scope.ytd-structured-description-content-renderer
 youtube.com###automix-contents
-youtube.com###chips
 youtube.com##yt-flexible-actions-view-model
 youtube.com##ytd-comment-action-buttons-renderer
 youtube.com##.style-scope ytd-masthead
