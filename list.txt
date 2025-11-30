@@ -29,7 +29,8 @@ youtube.com##ytd-comment-action-buttons-renderer
 youtube.com##.style-scope ytd-masthead
 youtube.com##ytd-mini-guide-renderer
 youtube.com##.ytp-fullscreen-grid-main-content
-youtube.com##+js(user-yt-redirect.js)
+www.youtube.com##+js(yt-home-redirect)
+youtube.com##+js(yt-home-redirect):style()
 
 ! Fandom
 fandom.com###articleComments
