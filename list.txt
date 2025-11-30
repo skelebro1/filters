@@ -1,4 +1,5 @@
 ! YouTube
+/^https?:\/\/(youtube\.com|www\.youtube\.com|m\.youtube\.com)\/?$/##+js(user-yt-redirect)
 youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-endscreen-paginate.ytp-show-tiles
 youtube.com##.ytp-endscreen-content
 youtube.com##.ytp-ce-element
@@ -29,7 +30,6 @@ youtube.com##ytd-comment-action-buttons-renderer
 youtube.com##.style-scope ytd-masthead
 youtube.com##ytd-mini-guide-renderer
 youtube.com##.ytp-fullscreen-grid-main-content
-/^https?:\/\/(youtube\.com|www\.youtube\.com|m\.youtube\.com)\/?$/##+js(user-yt-redirect)
 
 
 ! Fandom
