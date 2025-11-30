@@ -1,5 +1,6 @@
 ! YouTube
-/^https?:\/\/(youtube\.com|www\.youtube\.com|m\.youtube\.com)\/?$/##+js(user-yt-redirect)
+www.youtube.com##+js(user-yt-redirect)
+youtube.com##+js(user-yt-redirect):style()
 youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-endscreen-paginate.ytp-show-tiles
 youtube.com##.ytp-endscreen-content
 youtube.com##.ytp-ce-element
