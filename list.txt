@@ -1,4 +1,6 @@
 ! YouTube
+www.youtube.com###actions
+www.youtube.com###secondary
 www.youtube.com##+js(user-yt-redirect)
 youtube.com##+js(user-yt-redirect):style()
 youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-endscreen-paginate.ytp-show-tiles
@@ -13,7 +15,6 @@ youtube.com##.ytp-related-on-error-overlay
 youtube.com##.ytd-background-promo-renderer
 youtube.com###comments
 youtube.com##ytd-comments.ytd-section-list-renderer.style-scope
-youtube.com###actions
 youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
 youtube.com###sponsor-button
 youtube.com##.ytd-watch-flexy.style-scope.watch-active-metadata > ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope
@@ -22,7 +23,6 @@ youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-de
 youtube.com###teaser-carousel
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 youtube.com##lazy-list
-www.youtube.com###secondary
 youtube.com##ytd-video-description-infocards-section-renderer.style-scope.ytd-structured-description-content-renderer
 youtube.com###automix-contents
 youtube.com###chips
