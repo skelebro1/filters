@@ -31,7 +31,7 @@ youtube.com##ytd-comment-action-buttons-renderer
 youtube.com##.style-scope ytd-masthead
 youtube.com##ytd-mini-guide-renderer
 youtube.com##.ytp-fullscreen-grid-main-content
-www.youtube.com###panels-full-bleed-container
+youtube.com###panels-full-bleed-container
 
 
 ! Fandom
