@@ -26,7 +26,6 @@ youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-s
 youtube.com##lazy-list
 youtube.com##ytd-video-description-infocards-section-renderer.style-scope.ytd-structured-description-content-renderer
 youtube.com###automix-contents
-youtube.com##yt-flexible-actions-view-model
 youtube.com##ytd-comment-action-buttons-renderer
 youtube.com##.style-scope ytd-masthead
 youtube.com##ytd-mini-guide-renderer
