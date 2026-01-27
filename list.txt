@@ -1,4 +1,5 @@
 ! YouTube
+||ytimg.com^
 www.youtube.com###chips
 www.youtube.com###actions
 www.youtube.com###secondary
