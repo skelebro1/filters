@@ -1,4 +1,4 @@
-# a personal uBlock Origin / AdBlock filter list
+# A personal uBlock Origin / AdBlock filter list
 
 ## Sites include:
 - [YouTube](https://www.youtube.com)
